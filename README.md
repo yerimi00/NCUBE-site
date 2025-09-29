@@ -1,3 +1,6 @@
+# NCUBE-site
+한국외대 컴퓨터공학부 학회, N-CUBE 사이트입니다.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
